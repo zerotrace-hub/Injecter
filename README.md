@@ -22,7 +22,7 @@ A simple bash tool to create Android meterpreter payloads .
 
 ### Method 1: Direct Download
 ```bash
-git clone https://github.com/yourusername/Injecter.git
+git clone https://github.com/zerotrace-hub/Injecter
 cd Injecter
 chmod +x setup.sh Inject.sh
 ./setup.sh
