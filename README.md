@@ -14,7 +14,6 @@ A simple bash tool to create Android meterpreter payloads.
 - Clean and user-friendly interface
 
 ## Requirements
-- Linux (Kali, Ubuntu, Arch etc.) or Termux
 - Metasploit Framework
 - Java JDK (for signing APKs)
 
