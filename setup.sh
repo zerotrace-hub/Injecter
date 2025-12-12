@@ -176,7 +176,7 @@ main() {
     show_success "Setup completed successfully!"
     echo ""
     show_message "Run ./Inject.sh to start creating payloads"
-    show_message "Visit GitHub: https://github.com/yourusername/Injecter"
+    show_message "Visit GitHub: https://github.com/zerotrace-hub/Injecter"
     echo ""
 }
 
